@@ -1,0 +1,13 @@
+[all]
+S2
+S3
+S4
+
+[ios_switches]
+S2
+
+[nxos_switches]
+S3
+
+[eos_switches]
+S4
